@@ -1,2 +1,2 @@
 # MytestProject
-Tesst
+Test
